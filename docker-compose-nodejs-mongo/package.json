@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-sample-dockercompose",
+  "version": "1.0.0",
+  "description": "nodejs sample for docker compose",
+  "author": "",
+  "license": "",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "nodejs",
+    "bootstrap",
+    "express"
+  ],
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.10"
+  }
+}
